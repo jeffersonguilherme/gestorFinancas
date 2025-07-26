@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jefferson/Documentos/gestão de finaças/Dima/Dima.Api/Dima.Api.csproj": {}
+    "/home/jefferson/Documentos/GitHub/gestorFinancas/Dima/Dima.Api/Dima.Api.csproj": {}
   },
   "projects": {
-    "/home/jefferson/Documentos/gestão de finaças/Dima/Dima.Api/Dima.Api.csproj": {
+    "/home/jefferson/Documentos/GitHub/gestorFinancas/Dima/Dima.Api/Dima.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jefferson/Documentos/gestão de finaças/Dima/Dima.Api/Dima.Api.csproj",
+        "projectUniqueName": "/home/jefferson/Documentos/GitHub/gestorFinancas/Dima/Dima.Api/Dima.Api.csproj",
         "projectName": "Dima.Api",
-        "projectPath": "/home/jefferson/Documentos/gestão de finaças/Dima/Dima.Api/Dima.Api.csproj",
+        "projectPath": "/home/jefferson/Documentos/GitHub/gestorFinancas/Dima/Dima.Api/Dima.Api.csproj",
         "packagesPath": "/home/jefferson/.nuget/packages/",
-        "outputPath": "/home/jefferson/Documentos/gestão de finaças/Dima/Dima.Api/obj/",
+        "outputPath": "/home/jefferson/Documentos/GitHub/gestorFinancas/Dima/Dima.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jefferson/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/jefferson/Documentos/gestão de finaças/Dima/Dima.Core/Dima.Core.csproj": {
-                "projectPath": "/home/jefferson/Documentos/gestão de finaças/Dima/Dima.Core/Dima.Core.csproj"
+              "/home/jefferson/Documentos/GitHub/gestorFinancas/Dima/Dima.Core/Dima.Core.csproj": {
+                "projectPath": "/home/jefferson/Documentos/GitHub/gestorFinancas/Dima/Dima.Core/Dima.Core.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "/home/jefferson/Documentos/gestão de finaças/Dima/Dima.Core/Dima.Core.csproj": {
+    "/home/jefferson/Documentos/GitHub/gestorFinancas/Dima/Dima.Core/Dima.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jefferson/Documentos/gestão de finaças/Dima/Dima.Core/Dima.Core.csproj",
+        "projectUniqueName": "/home/jefferson/Documentos/GitHub/gestorFinancas/Dima/Dima.Core/Dima.Core.csproj",
         "projectName": "Dima.Core",
-        "projectPath": "/home/jefferson/Documentos/gestão de finaças/Dima/Dima.Core/Dima.Core.csproj",
+        "projectPath": "/home/jefferson/Documentos/GitHub/gestorFinancas/Dima/Dima.Core/Dima.Core.csproj",
         "packagesPath": "/home/jefferson/.nuget/packages/",
-        "outputPath": "/home/jefferson/Documentos/gestão de finaças/Dima/Dima.Core/obj/",
+        "outputPath": "/home/jefferson/Documentos/GitHub/gestorFinancas/Dima/Dima.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jefferson/.nuget/NuGet/NuGet.Config"
