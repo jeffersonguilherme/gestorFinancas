@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dima.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b27e77c918192429a23f2ab9996f6166f7dafd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a04eb1808c23e811b7e0c7c77393399c03206b21")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dima.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dima.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
